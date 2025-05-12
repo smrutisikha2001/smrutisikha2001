@@ -10,7 +10,9 @@ Here's what you'll discover:
 
 ⚡ Encouragement and ideas for anyone navigating through data pools.
 
-Let's brew up for some coding and coffee-fueled brainstorming.
+
+Let's brew up for some coding and coffee-fueled brainstorming!
+
 Slowly but surely, one repo at a time.
 
 <!--
