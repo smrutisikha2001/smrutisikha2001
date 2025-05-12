@@ -4,16 +4,16 @@ Welcome to my little space on GitHub.
 This is where I share my journey of career growth, diving into new tech, and trying to make work a little more manageable and lot more fun.
 Here's what you'll discover:
 
-   🌱 A peek at the projects I'm currently building and contributing to.
+   🌱 A peek into the projects I've built and the ones I'm currently working on.
 
-  📚 Discoveries and takeaways from my infinite learning and growth curve.
+   📚 Things I have learnt from those "God! How to I fix this" to "Ah! Finally" moments.
 
-  ⚡ Bits of inspiration and ideas for anyone navigating through and making sense of data landscapes.
+   ⚡ Bits of inspiration and ideas for anyone navigating through and making sense out of those data pools.
 
 
-Let's brew up for some coding and coffee-fueled brainstorming!
+So let's brew up for some coding and coffee-fueled brainstorming!
 
-Slowly but surely, one repo at a time.
+Slowly but surely, one repo at a time!
 
 <!--
 **smrutisikha2001/smrutisikha2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
