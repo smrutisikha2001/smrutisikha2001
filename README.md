@@ -1,4 +1,4 @@
-## Hey there!🌸 So glad you've landed here!
+## Hey there!🌸 I am so glad you've landed here!
 Welcome to my little space on GitHub. 
 
 This is where I share my journey of career growth, diving into new tech, and trying to make work a little more manageable and lot more fun.
