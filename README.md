@@ -1,9 +1,12 @@
 ## Hey there! So glad you've landed here! 🌸
-Welcome to my little space on GitHub. This is where I share my journey of career growth, diving into new tech, and trying to make work a little more manageable and lot more fun.
+Welcome to my little space on GitHub. 
+
+This is where I share my journey of career growth, diving into new tech, and trying to make work a little more manageable and lot more fun.
 Here's what you'll discover:
-🌱 A peek at the projects I'm currently building and contributing to.
-📚 Insights and takeaways from my infite learning curve.
-⚡ Encouragement and ideas for anyone navigating through data pools.
+
+•	🌱 A peek at the projects I'm currently building and contributing to.
+•	📚 Insights and takeaways from my infinite learning curve.
+•	⚡ Encouragement and ideas for anyone navigating through data pools.
 
 Let's brew up for some coding and coffee-fueled brainstorming.
 Slowly but surely, one repo at a time.
